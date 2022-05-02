@@ -1,10 +1,12 @@
 ## Quan Xu
-🇸🇬**I moved from Singapore to Germany one and a half years ago.** ✈
+🇸🇬 **I moved from Singapore to Germany one and a half years ago.** ✈
 
-**I worked as a commercial administration manager before my maternity leave.** 👦👦
+**I worked as a Commercial Administration Manager before my maternity leave.** 👦👦
 
 Was ist Ihr Lieblingsgetraenk im Homeoffice? 
-- ☕Kaffee
-- 🍵Tee
+
+- ☕ Kaffee
+
+- 🍵 Tee
 
 I was born in Hunan, China.
