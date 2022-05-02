@@ -6,7 +6,6 @@
 Was ist Ihr Lieblingsgetraenk im Homeoffice? 
 
 - ☕ Kaffee
-
 - 🍵 Tee
 
 I was born in Hunan, China.
