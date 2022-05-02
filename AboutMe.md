@@ -1,6 +1,8 @@
-Quan Xu
-I moved from Singapore to Germany one and a half years ago.
+## Quan Xu
+**I moved from Singapore to Germany one and a half years ago.**
 
-Was ist Ihr Lieblingsgetraenk im Homeoffice? Kaffee und Tee.
+Was ist Ihr Lieblingsgetraenk im Homeoffice? 
+- Kaffee
+- Tee
 
 I was born in Hunan, China.
