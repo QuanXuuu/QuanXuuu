@@ -31,4 +31,4 @@ Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.n
 
 ## Badges
 
-![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanXuuu&theme=vue-dark&show_icons=true)
+![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanXuuu&theme=vue&show_icons=true)
