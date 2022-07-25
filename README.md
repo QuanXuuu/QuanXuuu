@@ -2,7 +2,7 @@
 
 ## Junior Frontend Developer
 
-For the past years I did my masters degree specializing in Linguistics.
+For the past years I did my master's degree specializing in Linguistics.
 Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.neuefische.de/en).
 
 - :earth_africa: I'm based in Hamburg, Germany
