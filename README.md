@@ -9,7 +9,7 @@ Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.n
 - :e-mail: You can contact me at [xuquan69220@gmail.com](mailto:xuquan69220@gmail.com)
 - :rocket: I'm currently working on [Capstone Project - Yumme](https://yumme.vercel.app/)
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -24,11 +24,11 @@ Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.n
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" width="47" alt="vscode logo"  /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://github.com/QuanXuuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/quan-xu-a81a59120/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 ![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanXuuu&theme=vue-dark&show_icons=true)
