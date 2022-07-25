@@ -2,12 +2,12 @@
 
 ## Junior Frontend Developer
 
-For the past years I did my master's degree specializing in Linguistics.
+For the past years I did my master's degree specializing in Linguistics.<br/>
 Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.neuefische.de/en).
 
 - :earth_africa: I'm based in Hamburg, Germany
-- :e-mail: You can contact me at [xuquan69220@gmail.com](mailto: xuquan69220@gmail.com)
-- :rocket: I'm currently working on [Capstone Project 'Yumme'](https://yumme.vercel.app/)
+- :e-mail: You can contact me at [xuquan69220@gmail.com](mailto:xuquan69220@gmail.com)
+- :rocket: I'm currently working on [Capstone Project - Yumme](https://yumme.vercel.app/)
 
 ### Skills
 
@@ -28,5 +28,4 @@ Now I just finished my Frontend Developer bootcamp at [neuefische](https://www.n
 
 ### Badges
 
-<b>My GitHub Stats</b>
-[![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanXuuu&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanXuuu&theme=vue-dark&show_icons=true)
