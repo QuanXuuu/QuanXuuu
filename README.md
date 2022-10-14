@@ -1,7 +1,5 @@
 # Hi there! I am Quan :wave:
 
-## Junior Frontend Developer
-
 For the past years I did my master's degree specializing in Linguistics.<br/>
 Now I finished my Frontend Developer bootcamp at [neuefische](https://www.neuefische.de/en).
 
