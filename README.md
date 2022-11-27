@@ -2,7 +2,7 @@
 
 For the past years I did my master's degree specializing in Linguistics.<br/>
 
-- :earth_africa: I'm based in Hamburg, Germany
+- :earth_africa: I'm based in , Germany
 - :e-mail: You can contact me at [xuquan69220@gmail.com](mailto:xuquan69220@gmail.com)
 
 ## Skills
