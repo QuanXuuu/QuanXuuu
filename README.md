@@ -1,6 +1,6 @@
 # Hi there! I am Quan :wave:
 
-For the past years I did my master's degree specializing in Linguistics.<br/>
+For the past years I did my master's degree specializing in Linguistics. Now I am a WebDev student :computer:
 
 - :earth_africa: I'm based in Krempe, Germany
 - :e-mail: You can contact me at [xuquan69220@gmail.com](mailto:xuquan69220@gmail.com)
