@@ -12,9 +12,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
 width="36" height="36" alt="React" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
-height="35" width="47" alt="storybook logo"  />
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank"
 rel="noreferrer"><img
@@ -24,10 +21,6 @@ width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
 width="36" height="36" alt="Figma" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"
-rel="noreferrer"><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-height="35" width="47" alt="vscode logo"  /></a>
 </p>
 
 ## Social
