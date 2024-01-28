@@ -6,6 +6,8 @@
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+width="36" height="36" alt="Figma" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://wailwindcss.com/" target="_blank" rel="noreferrer"><img width="36" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></a>
 <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"><img width="36" src="https://cdn.shopify.com/s/files/1/1061/1924/products/Nail_Polish_Emoji_Icon_ios10_large.png?v=1571606091" alt="Styled-Components" title="Styled-Components"/></a>
@@ -19,8 +21,7 @@ rel="noreferrer"><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
 width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="36" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></p></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-width="36" height="36" alt="Figma" /></a>
+
 </p>
 
 ## Social
