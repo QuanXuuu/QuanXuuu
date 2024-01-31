@@ -1,6 +1,6 @@
 # Hi there! I am Quan :wave:
 
-## [My Portfolio](https://quanxu-portfolio.vercel.app/)
+## [My Portfolio](https://quanxuuu.github.io/portfolio/)
 
 ## Skills
 <p align="left">
